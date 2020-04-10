@@ -1,0 +1,2 @@
+# Prediction-of-success-in-a-kickstarter-campaign
+Kickstarter is an American based Public benefits corporation which helps to fund creative project through crowdfunding. The company's stated mission is to "help bring creative projects to life", more information can be found here https://en.wikipedia.org/wiki/Kickstarter . The dataset was gotten from the Kaggle site here: https://www.kaggle.com/kemical/kickstarter-projects.
